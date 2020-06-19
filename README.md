@@ -25,7 +25,7 @@ The script is self-explanatory, and you are free to mod and contribute as you wi
 * gditools by famillyguy and sizious (https://sourceforge.net/projects/dcisotools/)
 
 ## License 
-* MIT. See [LICENSE](https://github.com/joseclaudioazevedo/GDIShrinkAndRename/blob/master/LICENSE) file
+* MIT. See [LICENSE](https://github.com/claudio-azevedo/GDIShrinkAndRename/blob/master/LICENSE) file
 
 ## Version 
 * Version 0.1
