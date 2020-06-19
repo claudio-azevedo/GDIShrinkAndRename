@@ -3,7 +3,7 @@ foreach ($file in $OriginalFoldersAndFiles) {
    Write-Host "Processing"  $file.FullName
 
    #processa o arquivo
-   python.exe .\gdishrink.py $file.FullName | Out-File ($file.DirectoryName + "\compress.txt")
+   python.exe .\gdishrink.py $file.FullName | Out-File ($file.DirectoryName + "\compress.txt") -encoding ASCII
 
    ##renaming to disc.gdi
    if ($file.Name -ine "disc.gdi") {
