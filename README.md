@@ -17,6 +17,9 @@ The script is self-explanatory, and you are free to mod and contribute as you wi
 
 ## Contributors
 
+## Currently know bugs
+* Folders and dgi/track files with a lot of characters like "(USA)(XX)[!][abc,abc]" will cause issues. You may want to rename those before.
+
 ### Contributors on GitHub
 * Just me, for now.
 
