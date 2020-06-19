@@ -15,15 +15,13 @@ The Shrink feature is optional, as you can have problems with 'shrinked' images 
 
 The script is self-explanatory, and you are free to mod and contribute as you wish.
 
-## Contributors
-
 ## Currently know bugs
 * Folders and dgi/track files with a lot of characters like "(USA)(XX)[!][abc,abc]" will cause issues. You may want to rename those before.
 
-### Contributors on GitHub
+## Contributors on GitHub
 * Just me, for now.
 
-### Third party libraries
+## Third party libraries
 * gditools by famillyguy and sizious (https://sourceforge.net/projects/dcisotools/)
 
 ## License 
