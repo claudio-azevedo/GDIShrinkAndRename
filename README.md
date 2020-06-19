@@ -8,7 +8,7 @@ The Shrink feature is optional, as you can have problems with 'shrinked' images 
 * Just clone the git or download ZIP.
 
 ## Usage and Requirements
-* You will need python 2.X (2.7 is currently the latest release) propertly installed on your system and in your "path";
+* You will need python 2.X (2.7 is currently the latest release) propertly installed on your system and in your "path" *only if you need shrink*;
 * Place all the GDIs that you want to rename and/or compress inside the same folder of the script. Each .gdi inside its own folder with its own files;
 * The script "1 - rename-files.ps1" will search in subfolders for any .gdi file, read it and rename tracks to "track01, track02, track03", create a file called disc.gdi and rename the original gdi to .back.
 * The script "2 - compress-all.ps1" will search in subfolders for any .gdi file, compress it using the python script "gdishrink" and if the gdi isnt called "disc.gdi" will rename it. Also will create a txt file inside each folder with the information about the compress process.
